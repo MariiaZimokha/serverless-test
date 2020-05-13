@@ -1,6 +1,8 @@
 # serverless-test
 Instruction how to deploy nodejs to AWS Lambda
 
+**Live demo:** https://etvqss15w8.execute-api.us-east-1.amazonaws.com/production
+
 The dependencies are needed to be installed:
 
 ```javascript
