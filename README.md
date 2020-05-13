@@ -22,7 +22,8 @@ You will be asked to provide following values:
 - AWS Secret Access Key
 
 You can find them in the ‘My Security Credentials’ section, after logging into your AWS account:
-![aws](/assets/aws?raw=true)
+
+![aws](/assets/aws.png?raw=true)
 
 To deploy new version to cloud
 
